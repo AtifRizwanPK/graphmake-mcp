@@ -1,0 +1,13 @@
+{
+  "name": "graphmake",
+  "owner": { "name": "GraphMake", "url": "https://graphmake.com" },
+  "description": "GraphMake's plugin for Claude Code: infographics and charts from your agent.",
+  "plugins": [
+    {
+      "name": "graphmake",
+      "source": "./",
+      "description": "Make infographics and charts from your agent, from 90+ templates or from scratch, returned as PNG or SVG.",
+      "version": "1.1.0"
+    }
+  ]
+}

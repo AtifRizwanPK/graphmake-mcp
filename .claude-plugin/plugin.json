@@ -1,0 +1,10 @@
+{
+  "name": "graphmake",
+  "description": "Make infographics and charts from your agent: fill one of 90+ designed templates or build from KPI cards, charts, timelines, funnels and world maps, returned as PNG or SVG with a link to edit them in GraphMake.",
+  "version": "1.1.0",
+  "author": { "name": "GraphMake", "url": "https://graphmake.com" },
+  "homepage": "https://graphmake.com/mcp",
+  "repository": "https://github.com/AtifRizwanPK/graphmake-mcp",
+  "license": "MIT",
+  "keywords": ["infographic", "charts", "data-visualization", "svg", "png", "mcp"]
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.graphmake/graphmake",
+  "title": "GraphMake",
+  "description": "Turn data into infographics (PNG/SVG): 90+ templates, or KPI cards, charts, timelines and maps.",
+  "version": "1.1.0",
+  "websiteUrl": "https://graphmake.com/mcp",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://graphmake.com/api/mcp"
+    }
+  ]
+}
